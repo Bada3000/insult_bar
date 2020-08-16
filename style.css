@@ -1,0 +1,31 @@
+.content {
+    font-size: 15pt;
+    display:flex ;
+    border: 1px solid #777886;
+    border-radius: 5px;
+    flex-direction: column ;
+    align-items: center;
+    margin: 20px;
+    padding: 10px ;
+    box-shadow: 0 0px 5px 1px #353535 ;
+    background: #F1F1F1
+   
+}
+.burger img {
+  width:50px;
+}
+.logo{
+  align-items: center ;
+  justify-content: center;
+  display: inline;
+}
+.logo img{
+  width:100px;
+  border-radius:60px
+}
+.title {
+  color: #424247
+}
+.opis {
+  color: #6D6E77
+}
